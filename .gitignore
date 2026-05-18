@@ -1,2 +1,4 @@
 *.pkl
 *.csv
+3.10Venv/
+tsne_plots/
