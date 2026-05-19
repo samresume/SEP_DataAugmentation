@@ -2,3 +2,5 @@
 *.csv
 3.10Venv/
 tsne_plots/
+NO NORMALIZATION.ipynb
+.ipynb_checkpoints/
