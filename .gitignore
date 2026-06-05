@@ -1,6 +1,8 @@
 *.pkl
 *.csv
-3.10Venv/
+*.npz
+*.txt
 tsne_plots/
-NO NORMALIZATION.ipynb
+plots/
+results/
 .ipynb_checkpoints/
