@@ -5,10 +5,6 @@
 tsne_plots/
 plots/
 results/
-catch22_features/
-catch22_features_timesteps/
 .ipynb_checkpoints/
 *.pdf
 *.png
-*.txt
-*.pkl
